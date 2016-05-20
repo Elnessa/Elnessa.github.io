@@ -10,7 +10,7 @@ Zajímá Vás kultura Neslyšících? Chcete zažít zábavu a naučit se česk�
 
 Název Trojrozměr vychází z trojrozměrnosti znakového jazyka, což je jeho přirozená vlastnost.
 
-https://github.com/janafolkova/Elnessa.github.io/blob/master/images/Trojrozm%C4%9Br.jpg
+(https://github.com/janafolkova/Elnessa.github.io/blob/master/images/Trojrozm%C4%9Br.jpg)
 
 ##Kurzy českého znakového jazyka
 Brněnské centrum Trojrozměr nabízí kurzy českého znakového jazyka, což je v podstatě mateřský jazyk lidí, kteří jsou od narození nebo od raného věku neslyšící. Se znalostí znakového jazyka se můžete úplatnit nejen jako tlumočníci, ale i jako vyučující neslyšících nebo v různcýh organizacích neslyšících. Všechny kurzy vedou neslyšící lektoři, kteří mají několikaleté zkušenosti.
