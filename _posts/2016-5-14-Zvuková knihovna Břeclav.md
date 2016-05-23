@@ -3,8 +3,6 @@ layout: post
 title: Zvuková knihovna Břeclav
 ---
 
-# Zvuková knihovna Břeclav
-
 Oddělení zvukové knihovny Břeclav \(dále jen [ZKB](http://www.knihovna-bv.cz/index.php?path=zvukova/)\) v Městské knihovně Břeclav je primárně zaměřeno pro osoby se specifickými potřebami, konkrétně pro lidi se zrakovými potížemi. Čtenáři v tomto oddělení mají většinou zrak zbytkový, nebo výrazně zhoršené vidění. Má někdo z Vašeho okolí problémy se zrakem? Neváhejte a doporučte mu ZKB.
 
 ![Jejda!](C:\Users\Aether\Documents\GitHub\Elnessa.github.io\images\zvukova.jpg)
