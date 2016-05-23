@@ -3,11 +3,9 @@ layout: post
 title: Schodolez a jeho druhy
 ---
 
-# Co je to schodolez?
-
 Schodolez je nástrojem pro vozíčkáře, který jim umožňuje lépe se pohybovat po celém světě. Nikdy v historii se nemyslelo na bezbariérovost, obvzláště ne na tu prostorovou. Jak se může dostat vozíčkář v historickém centru k zámku, když jedinou cestou jsou schody bez možnosti výtahu či vysouvací platformy? V takovém případě buď musí někdo vozíčkáře nést, nebo má smůlu. Právě z takovéhoto důvodu existuje schodolez, který řeší tyto problémy. Je to nástroj, díky kterému může sedící vozíčkář schody vyjít. Asistent schodolez používá podle toho, s jakým druhem zrovna pracuje.
 
-![Jejda!](http://schodolezymorava.cz/files/typy_fotky/liftkar%20pts/1.gif "Schodolez")
+![Jejda, tady měl být obrázek! Ale jako fakt.](http://schodolezymorava.cz/files/typy_fotky/liftkar%20pts/1.gif "Schodolez")
 
 ## Jaká je cenová relevance?
 

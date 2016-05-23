@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Článek byl napsán {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
