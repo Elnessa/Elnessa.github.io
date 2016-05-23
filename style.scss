@@ -20,7 +20,7 @@ html {
 body {
     background-image: url(images/Pastel_Blue_429713_i0.png);
   font: 18px/1.4 $helvetica;
-  color: $darkblue;
+  color: darkblue;
 }
 
 .container {
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $pink;
+  color: pink;
   font-size: 16px;
 
   @include mobile {
